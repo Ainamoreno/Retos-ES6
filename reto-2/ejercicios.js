@@ -1,4 +1,4 @@
-class password {
+class Password {
 
     constructor() {
 
