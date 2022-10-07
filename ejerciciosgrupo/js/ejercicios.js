@@ -1,6 +1,4 @@
 
-
-
 class Persona {
 
     constructor(dni){
@@ -13,15 +11,10 @@ class Persona {
         this.dni = dni;
 
     }
-
-
 }
 
-
 let persona1 = new Persona("20196547x");
-
 let persona2 = new Persona("78996547x");
-
 let persona3 = new Persona("56896211x");
 
 
